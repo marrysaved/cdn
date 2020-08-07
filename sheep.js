@@ -32,7 +32,7 @@ domain[25] = "https://xvideos4.tk";
 domain[26] = "https://xvideos5.cf";
 
  document.writeln( '<ul class="to-tags-list">');
-for(var i=0;i< domain.length;i++){
+for(var i=0;i< 8;i++){
 
 l = Math.random() * domain.length;
 l= Math.floor(l);
